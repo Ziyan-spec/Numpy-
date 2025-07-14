@@ -24,7 +24,7 @@ Welcome to my Data Analysis practice repository! This repo contains all the code
 
 ## 📚 Learning Resources
 
-I'm currently learning from YouTube tutorials, online courses, and hands-on practice. Some of my favorite platforms:
+I'm currently learning from YouTube tutorials, online resources, and hands-on practice. Some of my favorite platforms:
 - [Google Colab](https://colab.research.google.com/)
 - [Kaggle](https://www.kaggle.com/)
 ---
