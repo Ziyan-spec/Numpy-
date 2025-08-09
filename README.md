@@ -1,39 +1,14 @@
+## Numpy Practice
 
-# 📊 Data Analysis 
+> This repo contains my practice notebooks for learning and exploring NumPy — from basics to advanced concepts — created in Google Colab.
 
-Welcome to my Data Analysis practice repository! This repo contains all the code, notebooks, and insights I'm gaining while learning data analysis using Python 🐍 and tools like Pandas, Matplotlib, and more.
+📌 Highlights
 
----
+📚 Step-by-step practice from basics to advanced.
 
-## 📁 What You’ll Find Here
+🛠 Built and tested in Google Colab.
 
-- Practice notebooks created using Google Colab. These include basic to intermediate data analysis operations.
-- 🛠 Regular updates as I progress in my data journey.
-
----
-
-## 🚀 Skills I'm Building
-
-- Data Cleaning & Exploration (Pandas)
-- Data Visualization (Matplotlib & Seaborn)
-- Basic Statistical Analysis
-- Working with Jupyter Notebooks
-- Git & GitHub for version control
-
----
-
-## 📚 Learning Resources
-
-I'm currently learning from YouTube tutorials, online resources, and hands-on practice. Some of my favorite platforms:
-- [Google Colab](https://colab.research.google.com/)
-- [Kaggle](https://www.kaggle.com/)
----
-
-## 🎯 Goal
-
-To become confident in Data Analysis by practicing regularly and building real-world mini projects.
-
-> “Practice makes progress — this is just the beginning!”
+📊 Covers arrays, indexing, slicing, and math operations.
 
 ---
 
