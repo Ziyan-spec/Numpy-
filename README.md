@@ -8,7 +8,7 @@
 
 🛠 Built and tested in Google Colab.
 
-📊 Covers arrays, indexing, slicing, and math operations.
+📊 Covers arrays, indexing, slicing, and math operations etc.
 
 ---
 
